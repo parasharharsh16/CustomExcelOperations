@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CustomExcelOperations": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
